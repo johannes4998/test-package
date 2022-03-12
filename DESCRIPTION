@@ -1,0 +1,17 @@
+Package: EuroCitizen
+Title: PKG_TITLE
+Version: 0.0.0.9000
+Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
+Description: PKG_DESC.
+License: What license is it under?
+Imports: config (>= 0.3.1), golem (>= 0.3.1), shiny (>= 1.6.0),
+        shinydashboard, shinydashboardPlus, magrittr, leaflet,
+        htmltools, shinipsum, stringr, dplyr, DT, pkgload, kableExtra,
+        gt, ggplot2
+Encoding: UTF-8
+RoxygenNote: 7.1.2
+NeedsCompilation: no
+Packaged: 2022-03-12 15:48:24 UTC; Johannes
+Author: AUTHOR_FIRST AUTHOR_LAST [cre, aut]
+Maintainer: AUTHOR_FIRST AUTHOR_LAST <AUTHOR@MAIL.COM>
+Depends: R (>= 3.5.0)
